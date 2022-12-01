@@ -1,0 +1,33 @@
+nav{
+    background-color: rgba(155, 96, 186, 0.811); 
+}
+
+body {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.gPO50n69tzzluSh8foiIEgHaE8&pid=Api&P=0");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+  h4{
+    text-align:center;
+  }
+  h5{
+    text-align:right;
+  }
+ 
+  table{
+        border: 2px solid rgb(243, 239, 239);
+   }
+   th{
+    border: 2px solid rgb(243, 239, 239);
+}
+td{
+  border: 2px solid rgb(243, 239, 239);
+}
+  th{
+      background-color: rgba(165, 190, 244, 0.39);
+  }
+   td{
+    background-color: rgba(84, 85, 101, 0.458);
+  }
+   
